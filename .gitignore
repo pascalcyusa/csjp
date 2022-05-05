@@ -1,5 +1,1 @@
-
-home/.DS_Store
-home/assets/.DS_Store
-home/assets/img/.DS_Store
-.DS_Store
+*.DS_Store
